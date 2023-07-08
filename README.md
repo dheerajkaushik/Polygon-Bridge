@@ -29,7 +29,7 @@ Steps to interact with the contract using Remix:
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/dheerajkaushik/Polygon-Bridge.git
 ```
 
 2. Install the dependencies:
