@@ -72,7 +72,7 @@ node batchTransfer.js
 
 ## Author 
 
-Abhishek Ranjan
+Dheeraj
 
 ## License
 
